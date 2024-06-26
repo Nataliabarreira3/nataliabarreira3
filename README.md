@@ -1,11 +1,11 @@
-## Boas vindas ao meu perfil 💮 
+## Bem vindo ao meu perfil 💮 
 
 
 **Nataliabarreira3/nataliabarreira3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 - Meu nome é Natalia Santos
 - Estou estudando na [Alura](https://www.alura.com.br)
-- Estou me desenvulveendo na linguagem JavaScript
+- Estou me desenvolvendo na linguagem JavaScript
 
 ### você pode entrar em contato comigo 📫
 
